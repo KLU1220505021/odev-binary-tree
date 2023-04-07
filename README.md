@@ -1,4 +1,4 @@
-#### Ikili Agac Karsilastirma
+# Ikili Agac Karsilastirma
 
 Verilen iki ikili agac rootunu argument olarak alip
 ayni yapida olmalari durumunda 1
@@ -6,7 +6,7 @@ farkli olmalari durumunda 0 donen fonksiyon.
 
 ## Algoritma Adimlari
 
-# compareTrees
+#### compareTrees
 
 1. Agac rootlarini al
    1. Biri bos ise 0 don
